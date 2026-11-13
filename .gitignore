@@ -1,0 +1,20 @@
+# Qt Creator
+*.user
+*.user.*
+.qtcreator/
+
+# Build files
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+
+# Local application data
+bookings.txt
+booking_history.txt
+statistics.txt
