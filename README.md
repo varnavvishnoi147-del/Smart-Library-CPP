@@ -1,5 +1,9 @@
 # Smart Library Seat Management System
 
+## Application Preview
+
+![Smart Library Application](Smart-Library-Preview.png)
+
 ## About the Project
 Smart Library Seat Management System is a C++ based application developed to manage library seats and reservations efficiently. It provides an easy way to book seats, cancel reservations, search bookings and maintain booking records.
 
